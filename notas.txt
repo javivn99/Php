@@ -1,0 +1,3 @@
+En ejercicio 38 creo la tabla 'tabla1' y en el ejercicio 40 creo el formulario con el que puedo añadir datos a la bdd.
+Los ej 38, 40 y 43 van seguidos por asi decir. Son del pdf ochenta y algo.
+Con esos ejercicios tengo que hacer el proyecto. Viene como hacer todo.
