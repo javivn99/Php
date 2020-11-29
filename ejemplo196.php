@@ -36,7 +36,7 @@ mysqli_select_db ($c,$base);
 
 
 
-$resultado=mysqli_query($c,"SELECT companeros.DNI,companeros.Nombre,companeros.Apellido1, companeros.Apellido2 ,demodat1.Puntos, demodat2.Puntos, demodat3.Puntos FROM companeros, demodat1, demodat2, demodat3 WHERE (companeros.DNI=demodat1.DNI AND companeros.DNI=demodat2.DNI AND companeros.DNI=demodat3.DNI) ORDER BY demodat1.Puntos+demodat2.Puntos+demodat3.Puntos DESC ");
+$resultado=mysqli_query($c,"SELECT demo4.DNI,demo4.Nombre,demo4.Apellido1, demo4.Apellido2 ,demodat1.Puntos, demodat2.Puntos, demodat3.Puntos FROM demo4, demodat1, demodat2, demodat3 WHERE (demo4.DNI=demodat1.DNI AND demo4.DNI=demodat2.DNI AND demo4.DNI=demodat3.DNI) ORDER BY demodat1.Puntos+demodat2.Puntos+demodat3.Puntos DESC ");
 
 # presentamos la salida en forma de tabla HTML
 

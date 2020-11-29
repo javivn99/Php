@@ -5,7 +5,7 @@ $base="javier";
 
 # recogemos en una variable el nombre de la TABLA
 
-$tabla="companeros";
+$tabla="demo4";
 
 # establecemos la conexion con el servidor
 

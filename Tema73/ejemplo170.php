@@ -5,7 +5,7 @@ $base="javier";
 
 # recogemos en una variable el nombre de la TABLA 
 
-$tabla="companeros"; 
+$tabla="demo4"; 
 
 # recogemos en variables los valores que vamos a asignar a cada campo 
 $v1="9876545"; 

@@ -8,11 +8,11 @@
 
 $Calificacion=$_GET['Calificacion'];
 $Penitente=$_GET['Penitente'];
-$base="joseluis";
+$base="javier";
 
 # establecemos la conexión con el servidor
 
-$c=mysqli_connect ("localhost","javier","javier");
+$c=mysqli_connect ("localhost","javier","root");
 
 #Seleccionamos la BASE DE DATOS en la que PRETENDEMOS TRABAJAR
 

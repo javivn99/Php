@@ -3,7 +3,7 @@ $base="javier";
 
 #definimos otra variable con el NOMBRE QUE QUEREMOS DAR A LA TABLA
 
-$tabla="companeros";
+$tabla="demo4";
 
 # establecemos la conexión con el servidor
 

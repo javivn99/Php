@@ -1,7 +1,7 @@
 <?php
 # recogemos en una variable el nombre de BASE DE DATOS 
 
-$base="joseluis"; 
+$base="javier"; 
 
 # recogemos en una variable el nombre de la TABLA 
 
@@ -26,7 +26,7 @@ $ape2[]="de Grado";$ape2[]="de las Asturias";
 $i=0; 
 
 # establecemos la conexion con el servidor 
-$c=mysqli_connect("localhost","joseluis","joseluis"); 
+$c=mysqli_connect("localhost","javier","root"); 
 
 #asiganamos la conexión a una base de datos determinada 
 
